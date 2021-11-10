@@ -1,7 +1,14 @@
-  {
-    "age":"23",
-    "name":"srinivas",
-    "blog":"http://blog.sodhanalibrary.com",
-    "messages":["msg1","msg2","msg3"] 
+[
+{
+    "pkg":"com.appname",
+    "ads":"0",
+    "bid":"",
+    "iid":"" 
+  },{
+    "pkg":"com.appname",
+    "ads":"0",
+    "bid":"",
+    "iid":"" 
   }
+  ]
          
