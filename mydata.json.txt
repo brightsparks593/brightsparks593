@@ -1,6 +1,6 @@
 [
 {
-    "pkg":"com.appname",
+    "pkg":"com.example.starradar",
     "ads":"0",
     "bid":"",
     "iid":"" 
