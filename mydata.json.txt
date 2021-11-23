@@ -5,7 +5,7 @@
     "bid":"",
     "iid":"" 
   },{
-    "pkg":"com.appname",
+    "pkg":"com.example.webscanner",
     "ads":"0",
     "bid":"",
     "iid":"" 
