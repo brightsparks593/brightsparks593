@@ -1,1 +1,15 @@
-
+[
+{
+    "pkg":"com.ve.applovin",
+    "GameId":"4591491",
+    "Testmode":"True",
+    "bid":"Banner_Android",
+    "iid":"Interstitial_Android" 
+  },{
+    "pkg":"com.Ws.webscanner",
+    "GameId":"0",
+    "Testmode":"True",
+    "bid":"",
+    "iid":"" 
+  }
+  ]
